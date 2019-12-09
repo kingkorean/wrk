@@ -6,7 +6,7 @@
 
   An optional LuaJIT script can perform HTTP request generation, response
   processing, and custom reporting. Details are available in SCRIPTING and
-  several examples are located in [scripts/](scripts/).
+  several examples are located in [scripts/](scripts/)..
 
 ## Basic Usage
 
